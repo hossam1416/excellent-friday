@@ -9,14 +9,14 @@ const columns = [
   { key: "wins", label: "ف" },
   { key: "draws", label: "ت" },
   { key: "losses", label: "خ" },
-  { key: "goalsFor", label: "له", desktopOnly: true },
-  { key: "goalsAgainst", label: "عليه", desktopOnly: true },
+  { key: "goalsFor", label: "له" },
+  { key: "goalsAgainst", label: "عليه" },
   { key: "goalDifference", label: "فارق" },
   { key: "points", label: "نقاط" },
 ];
 
 const gridColumns = {
-  xs: "minmax(0, 1fr) repeat(6, 34px)",
+  xs: "minmax(0, 1fr) repeat(8, 28px)",
   md: "minmax(0, 1.8fr) repeat(8, minmax(0, 1fr))",
 };
 
