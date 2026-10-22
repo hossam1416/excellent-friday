@@ -14,7 +14,7 @@ const users = [
   },
   {
     username: "mohammad",
-    password: process.env.MOHAMMED_PASSWORD,
+    password: process.env.MOHAMMAD_PASSWORD,
     role: "player",
   },
   {
