@@ -13,7 +13,7 @@ const PLAYERS = {
     color: colors.burgundy,
     dark: colors.burgundyDark,
   },
-  mohammed: {
+  mohammad: {
     name: "محمد",
     letter: "م",
     color: colors.blue,
