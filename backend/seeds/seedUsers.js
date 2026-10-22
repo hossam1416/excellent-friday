@@ -13,7 +13,7 @@ const users = [
     role: "admin",
   },
   {
-    username: "mohammed",
+    username: "mohammad",
     password: process.env.MOHAMMED_PASSWORD,
     role: "player",
   },
